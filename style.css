@@ -1,0 +1,16 @@
+body {
+background-color: antiqueWhite;
+font-size: 17px;
+color: rgb(17, 131, 42);
+padding: 20px;
+text-align:center;
+}
+
+#result{
+  font-size: 36px;
+  color: rgb(179, 50, 9);
+}
+#score{
+  font-size: 24px;
+  color: black;
+}
